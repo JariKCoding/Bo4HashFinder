@@ -11,6 +11,10 @@ There are 4 modes in the program:
 * 3 - Looks for all animations and models for that specific internal weapon name.
 * 4 - Looks into the model and anim folder of greyhound and checks if there is an asset with that name.
 
+## Credits
+
+DTZxPorter - SELib
+
 ## License 
 
 Bo4HashFinder is licensed under the MIT license and its source code is free to use and modify. Bo4HashFinder comes with NO warranty, any damages caused are solely the responsibility of the user. See the LICENSE file for more information.
